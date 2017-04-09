@@ -1,0 +1,1046 @@
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:20214) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack: wait until bundle finished: /__webpack_hmr
+webpack: wait until bundle finished: /__webpack_hmr
+webpack: wait until bundle finished: /index.html
+webpack: wait until bundle finished: /index.html
+webpack built e238bea0f4906c28344c in 13511ms
+Hash: [1me238bea0f4906c28344c[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m13511[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.1 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  837 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack: wait until bundle finished: /index.html
+webpack built 23ca6341f6ff149c7161 in 4774ms
+Hash: [1m23ca6341f6ff149c7161[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m4774[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m    12.1 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.e238bea0f4906c28344c.hot-update.js[39m[22m    10.3 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32me238bea0f4906c28344c.hot-update.json[39m[22m   36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+                            [1m[32mindex.html[39m[22m  823 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:20835) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack built 7c8296dd15e53603bd8a in 11025ms
+Hash: [1m7c8296dd15e53603bd8a[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m11025[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.1 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  823 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:1017) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack: wait until bundle finished: /__webpack_hmr
+webpack: wait until bundle finished: /__webpack_hmr
+webpack built 7c8296dd15e53603bd8a in 11076ms
+Hash: [1m7c8296dd15e53603bd8a[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m11076[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.1 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  823 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built d0606e597e3434ed995c in 4278ms
+Hash: [1md0606e597e3434ed995c[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m4278[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.1 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.7c8296dd15e53603bd8a.hot-update.js[39m[22m   24.3 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m7c8296dd15e53603bd8a.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::80
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at Server._listen2 (net.js:1257:14)
+    at listen (net.js:1293:10)
+    at Server.listen (net.js:1389:5)
+    at EventEmitter.listen (/root/workspace/new/vue-perfect/node_modules/express/lib/application.js:617:24)
+    at Object.<anonymous> (/root/workspace/new/vue-perfect/build/dev-server.js:62:22)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:394:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:509:3
+
+npm ERR! Linux 3.10.0-327.22.2.el7.x86_64
+npm ERR! argv "/usr/bin/node" "/usr/bin/npm" "run" "dev"
+npm ERR! node v6.9.1
+npm ERR! npm  v3.10.8
+npm ERR! code ELIFECYCLE
+npm ERR! family@1.0.0 dev: `node build/dev-server.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the family@1.0.0 dev script 'node build/dev-server.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the family package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node build/dev-server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs family
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls family
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /root/workspace/new/vue-perfect/npm-debug.log
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:9046) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack built c84190ff19a366ea2c28 in 11362ms
+Hash: [1mc84190ff19a366ea2c28[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m11362[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.1 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  823 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built b9bee6a56b75d92d1b56 in 3617ms
+Hash: [1mb9bee6a56b75d92d1b56[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m3617[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.1 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.c84190ff19a366ea2c28.hot-update.js[39m[22m   9.21 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32mc84190ff19a366ea2c28.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:11700) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack: wait until bundle finished: /index.html
+webpack: wait until bundle finished: /index.html
+webpack built 62eeaf8d05ae6d8022b5 in 11207ms
+Hash: [1m62eeaf8d05ae6d8022b5[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m11207[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.1 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  823 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:8080
+
+(node:12023) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack built b8f99287d061261c1d38 in 11561ms
+Hash: [1mb8f99287d061261c1d38[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m11561[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.1 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  823 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:12123) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack built b8f99287d061261c1d38 in 11601ms
+Hash: [1mb8f99287d061261c1d38[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m11601[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.1 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  823 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:12573) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack: wait until bundle finished: /index.html
+webpack: wait until bundle finished: /index.html
+webpack built 5a13770920a8042ea4fa in 11452ms
+Hash: [1m5a13770920a8042ea4fa[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m11452[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.1 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  823 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:948) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack built 5a13770920a8042ea4fa in 11609ms
+Hash: [1m5a13770920a8042ea4fa[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m11609[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.1 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  823 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:2799) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack: wait until bundle finished: /__webpack_hmr
+webpack: wait until bundle finished: /__webpack_hmr
+webpack built 550b108f36dca417b5e1 in 11136ms
+Hash: [1m550b108f36dca417b5e1[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m11136[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.1 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  823 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:5251) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack built c392bb560639d65e19cf in 10796ms
+Hash: [1mc392bb560639d65e19cf[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m10796[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.1 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  823 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built d3b4a47d7b55ef015748 in 9629ms
+Hash: [1md3b4a47d7b55ef015748[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m9629[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.c392bb560639d65e19cf.hot-update.js[39m[22m    197 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32mc392bb560639d65e19cf.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:15624) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack: wait until bundle finished: /index.html
+webpack: wait until bundle finished: /__webpack_hmr
+webpack built f1e633c25782ddb6325d in 21820ms
+Hash: [1mf1e633c25782ddb6325d[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m21820[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  823 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:1490) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack: wait until bundle finished: /__webpack_hmr
+webpack: wait until bundle finished: /__webpack_hmr
+webpack: wait until bundle finished: /__webpack_hmr
+webpack built fe74ecb2c6ca5f92cf79 in 23784ms
+Hash: [1mfe74ecb2c6ca5f92cf79[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m23784[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  823 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built c3a3b8aac5bf5ed8a938 in 9039ms
+Hash: [1mc3a3b8aac5bf5ed8a938[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m9039[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.fe74ecb2c6ca5f92cf79.hot-update.js[39m[22m    109 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32mfe74ecb2c6ca5f92cf79.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built 72bdcd42501ba443d0b4 in 2165ms
+Hash: [1m72bdcd42501ba443d0b4[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m2165[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.c3a3b8aac5bf5ed8a938.hot-update.js[39m[22m    9.4 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32mc3a3b8aac5bf5ed8a938.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built 6a1c6d373c2d2cc3304a in 2307ms
+Hash: [1m6a1c6d373c2d2cc3304a[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m2307[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.72bdcd42501ba443d0b4.hot-update.js[39m[22m    9.8 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m72bdcd42501ba443d0b4.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built 31506335dd223d1a6b8e in 1936ms
+Hash: [1m31506335dd223d1a6b8e[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m1936[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.6a1c6d373c2d2cc3304a.hot-update.js[39m[22m   5.84 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m6a1c6d373c2d2cc3304a.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built 39ee87e71bd6753232ad in 2099ms
+Hash: [1m39ee87e71bd6753232ad[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m2099[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.31506335dd223d1a6b8e.hot-update.js[39m[22m   18.7 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m31506335dd223d1a6b8e.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built e9ad28df99f93031af3a in 1523ms
+Hash: [1me9ad28df99f93031af3a[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m1523[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.39ee87e71bd6753232ad.hot-update.js[39m[22m   7.55 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m39ee87e71bd6753232ad.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built fc61a5d32e3f8f0ff664 in 1897ms
+Hash: [1mfc61a5d32e3f8f0ff664[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m1897[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.e9ad28df99f93031af3a.hot-update.js[39m[22m   6.72 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32me9ad28df99f93031af3a.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built fa12344c099b80e572f9 in 2302ms
+Hash: [1mfa12344c099b80e572f9[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m2302[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.fc61a5d32e3f8f0ff664.hot-update.js[39m[22m   31.5 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32mfc61a5d32e3f8f0ff664.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::80
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at Server._listen2 (net.js:1257:14)
+    at listen (net.js:1293:10)
+    at Server.listen (net.js:1389:5)
+    at EventEmitter.listen (/root/workspace/new/vue-perfect/node_modules/express/lib/application.js:617:24)
+    at Object.<anonymous> (/root/workspace/new/vue-perfect/build/dev-server.js:62:22)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:394:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:509:3
+
+npm ERR! Linux 3.10.0-327.22.2.el7.x86_64
+npm ERR! argv "/usr/bin/node" "/usr/bin/npm" "run" "dev"
+npm ERR! node v6.9.1
+npm ERR! npm  v3.10.8
+npm ERR! code ELIFECYCLE
+npm ERR! family@1.0.0 dev: `node build/dev-server.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the family@1.0.0 dev script 'node build/dev-server.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the family package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node build/dev-server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs family
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls family
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /root/workspace/new/vue-perfect/npm-debug.log
+webpack: bundle is now INVALID.
+webpack building...
+webpack built fa12344c099b80e572f9 in 2051ms
+Hash: [1mfa12344c099b80e572f9[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m2051[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m    12.2 MB       [1m0[22m  [1m[32m[39m[22m           app
+                            [1m[32mindex.html[39m[22m  826 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:27141) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack: wait until bundle finished: /__webpack_hmr
+webpack: wait until bundle finished: /__webpack_hmr
+webpack built d6f33881c9e401da1002 in 22242ms
+Hash: [1md6f33881c9e401da1002[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m22242[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  826 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built 6d299fd97fb0872f19bb in 8763ms
+Hash: [1m6d299fd97fb0872f19bb[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m8763[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.d6f33881c9e401da1002.hot-update.js[39m[22m    108 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32md6f33881c9e401da1002.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built 8b58ede34a1bb6b52b38 in 2304ms
+Hash: [1m8b58ede34a1bb6b52b38[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m2304[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.6d299fd97fb0872f19bb.hot-update.js[39m[22m   15.9 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m6d299fd97fb0872f19bb.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built 82f34286095be49c47c7 in 1518ms
+Hash: [1m82f34286095be49c47c7[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m1518[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.8b58ede34a1bb6b52b38.hot-update.js[39m[22m    9.8 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m8b58ede34a1bb6b52b38.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built 5c1254f8825b45c4b60c in 1389ms
+Hash: [1m5c1254f8825b45c4b60c[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m1389[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.82f34286095be49c47c7.hot-update.js[39m[22m   5.84 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m82f34286095be49c47c7.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built 9c66c4ecf581a6082a6b in 1881ms
+Hash: [1m9c66c4ecf581a6082a6b[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m1881[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.5c1254f8825b45c4b60c.hot-update.js[39m[22m   18.7 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m5c1254f8825b45c4b60c.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built 51d8cd0d636c9ef8f1fa in 1442ms
+Hash: [1m51d8cd0d636c9ef8f1fa[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m1442[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.9c66c4ecf581a6082a6b.hot-update.js[39m[22m   7.55 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m9c66c4ecf581a6082a6b.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built ad5e9df39017863a31a6 in 2304ms
+Hash: [1mad5e9df39017863a31a6[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m2304[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.51d8cd0d636c9ef8f1fa.hot-update.js[39m[22m   31.5 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m51d8cd0d636c9ef8f1fa.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built eaac4bf283cd09b3df0d in 1394ms
+Hash: [1meaac4bf283cd09b3df0d[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m1394[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.ad5e9df39017863a31a6.hot-update.js[39m[22m   6.72 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32mad5e9df39017863a31a6.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:31830) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack: wait until bundle finished: /__webpack_hmr
+webpack: wait until bundle finished: /__webpack_hmr
+webpack built fe08716adc3b55745a92 in 21365ms
+Hash: [1mfe08716adc3b55745a92[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m21365[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  826 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::80
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at Server._listen2 (net.js:1257:14)
+    at listen (net.js:1293:10)
+    at Server.listen (net.js:1389:5)
+    at EventEmitter.listen (/root/workspace/new/vue-perfect/node_modules/express/lib/application.js:617:24)
+    at Object.<anonymous> (/root/workspace/new/vue-perfect/build/dev-server.js:62:22)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:394:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:509:3
+
+npm ERR! Linux 3.10.0-327.22.2.el7.x86_64
+npm ERR! argv "/usr/bin/node" "/usr/bin/npm" "run" "dev"
+npm ERR! node v6.9.1
+npm ERR! npm  v3.10.8
+npm ERR! code ELIFECYCLE
+npm ERR! family@1.0.0 dev: `node build/dev-server.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the family@1.0.0 dev script 'node build/dev-server.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the family package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node build/dev-server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs family
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls family
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /root/workspace/new/vue-perfect/npm-debug.log
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:21235) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack: wait until bundle finished: /index.html
+webpack: wait until bundle finished: /__webpack_hmr
+webpack: wait until bundle finished: /__webpack_hmr
+webpack built fe08716adc3b55745a92 in 24233ms
+Hash: [1mfe08716adc3b55745a92[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m24233[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.2 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  826 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built ce3696e9400a55cf6d95 in 9032ms
+Hash: [1mce3696e9400a55cf6d95[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m9032[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.3 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.fe08716adc3b55745a92.hot-update.js[39m[22m    158 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32mfe08716adc3b55745a92.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built 7d35f78840eaec6640b0 in 2503ms
+Hash: [1m7d35f78840eaec6640b0[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m2503[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.3 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.ce3696e9400a55cf6d95.hot-update.js[39m[22m   25.2 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32mce3696e9400a55cf6d95.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built 5da3100385adf7260429 in 2012ms
+Hash: [1m5da3100385adf7260429[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m2012[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.3 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.7d35f78840eaec6640b0.hot-update.js[39m[22m    9.8 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m7d35f78840eaec6640b0.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built d06e33f4d174896952b4 in 2085ms
+Hash: [1md06e33f4d174896952b4[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m2085[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.3 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.5da3100385adf7260429.hot-update.js[39m[22m   18.7 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m5da3100385adf7260429.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built 19a89f2f01a2ac8c63f0 in 1441ms
+Hash: [1m19a89f2f01a2ac8c63f0[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m1441[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.3 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.d06e33f4d174896952b4.hot-update.js[39m[22m   5.84 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32md06e33f4d174896952b4.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built ea79e203c1c501638e93 in 1427ms
+Hash: [1mea79e203c1c501638e93[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m1427[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.3 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.19a89f2f01a2ac8c63f0.hot-update.js[39m[22m   7.56 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m19a89f2f01a2ac8c63f0.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built a559519b1a0b78731398 in 2161ms
+Hash: [1ma559519b1a0b78731398[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m2161[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.3 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.ea79e203c1c501638e93.hot-update.js[39m[22m   33.9 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32mea79e203c1c501638e93.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+webpack: bundle is now INVALID.
+webpack building...
+webpack built 18601c8af2402e3c7c02 in 1396ms
+Hash: [1m18601c8af2402e3c7c02[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m1396[22mms
+                                 [1mAsset[22m      [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m   13.5 kB        [1m[22m  [1m[32m[39m[22m           
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m   13.2 kB        [1m[22m  [1m[32m[39m[22m           
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m   17.4 kB        [1m[22m  [1m[32m[39m[22m           
+                                [1m[32mapp.js[39m[22m   12.3 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32m0.a559519b1a0b78731398.hot-update.js[39m[22m   6.72 kB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+  [1m[32ma559519b1a0b78731398.hot-update.json[39m[22m  36 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:22541) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack: wait until bundle finished: /__webpack_hmr
+webpack: wait until bundle finished: /index.html
+webpack: wait until bundle finished: /index.html
+webpack built 2edc57b73d2ca137846c in 22207ms
+Hash: [1m2edc57b73d2ca137846c[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m22207[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.3 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  826 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
+
+> family@1.0.0 dev /root/workspace/new/vue-perfect
+> node build/dev-server.js
+
+Listening at http://localhost:80
+
+(node:22790) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+webpack: wait until bundle finished: /index.html
+webpack: wait until bundle finished: /index.html
+webpack: wait until bundle finished: /__webpack_hmr
+webpack built 665afe1b3b81fb1f898f in 22013ms
+Hash: [1m665afe1b3b81fb1f898f[22m
+Version: webpack [1m1.14.0[22m
+Time: [1m22013[22mms
+                                 [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+[1m[32mstatic/fonts/element-icons.a61be9c.eot[39m[22m    13.5 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+[1m[32mstatic/fonts/element-icons.b02bdc1.ttf[39m[22m    13.2 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32mstatic/img/element-icons.09162bc.svg[39m[22m    17.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                [1m[32mapp.js[39m[22m    12.3 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                            [1m[32mindex.html[39m[22m  826 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  1.47 MB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
